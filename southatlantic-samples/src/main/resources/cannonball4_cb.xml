@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<bboxes version="0.1" frame_number="5">
+ <frame index="0" rectangle_number="1">
+  <rec x="6" y="5" width="4" height="4"/>
+ </frame>
+ <frame index="1" rectangle_number="0"/>
+ <frame index="2" rectangle_number="0"/>
+ <frame index="3" rectangle_number="0"/>
+ <frame index="4" rectangle_number="0"/>
+</bboxes>

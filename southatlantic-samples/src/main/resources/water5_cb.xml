@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<bboxes version="0.1" frame_number="12">
+ <frame index="0" rectangle_number="0"/>
+ <frame index="1" rectangle_number="0"/>
+ <frame index="2" rectangle_number="0"/>
+ <frame index="3" rectangle_number="0"/>
+ <frame index="4" rectangle_number="0"/>
+ <frame index="5" rectangle_number="0"/>
+ <frame index="6" rectangle_number="0"/>
+ <frame index="7" rectangle_number="0"/>
+ <frame index="8" rectangle_number="3">
+  <rec x="26" y="3" width="13" height="40"/>
+  <rec x="41" y="9" width="12" height="29"/>
+  <rec x="12" y="13" width="12" height="26"/>
+ </frame>
+ <frame index="9" rectangle_number="3">
+  <rec x="25" y="4" width="28" height="22"/>
+  <rec x="55" y="11" width="3" height="10"/>
+  <rec x="20" y="11" width="6" height="9"/>
+ </frame>
+ <frame index="10" rectangle_number="2">
+  <rec x="15" y="8" width="13" height="16"/>
+  <rec x="33" y="26" width="14" height="17"/>
+ </frame>
+ <frame index="11" rectangle_number="3">
+  <rec x="11" y="13" width="13" height="10"/>
+  <rec x="31" y="4" width="12" height="8"/>
+  <rec x="41" y="22" width="11" height="10"/>
+ </frame>
+</bboxes>
